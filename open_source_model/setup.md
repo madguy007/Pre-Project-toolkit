@@ -72,7 +72,7 @@ madan@LAPTOP:~
 ```bash
 /home/madan
 # OR
-~
+cd ~ as a command for /mnt/c/users/madan to /home 
 ```
 
 ### 🧠 Why:
